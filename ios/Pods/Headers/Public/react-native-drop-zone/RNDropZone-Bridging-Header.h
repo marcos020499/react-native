@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-drop-zone/src/ios/RNDropZone/RNDropZone-Bridging-Header.h

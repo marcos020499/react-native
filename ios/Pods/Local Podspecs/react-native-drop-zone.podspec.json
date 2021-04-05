@@ -1,0 +1,23 @@
+{
+  "name": "react-native-drop-zone",
+  "version": "1.0.24",
+  "summary": "React Native module for drag-n-drop function on iOS",
+  "homepage": "https://github.com/WeTransfer/react-native-drop-zone",
+  "license": "Hippocratic-2.1",
+  "authors": "WeTransfer (https://paste.bywetransfer.com/)",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/WeTransfer/react-native-drop-zone.git",
+    "tag": "v1.0.24"
+  },
+  "source_files": "src/ios/**/*.{h,m,swift}",
+  "swift_versions": "5.0",
+  "dependencies": {
+    "React": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

@@ -1,0 +1,6 @@
+module react_native_drop_zone {
+  umbrella header "react-native-drop-zone-umbrella.h"
+
+  export *
+  module * { export * }
+}
